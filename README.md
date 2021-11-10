@@ -1,4 +1,5 @@
-![img_ghportada](https://user-images.githubusercontent.com/79548542/117082186-f8812b80-ad17-11eb-8506-8b2c17e09fb7.png)
+![portada_minificada](https://user-images.githubusercontent.com/79548542/141017253-cee6ea4f-9c9c-4798-837a-686a2ac66d0a.png)
+
 
 <h1 align="center"> 
   <img src="https://media.giphy.com/media/JUq9ohFN2eSLJllrkd/giphy.gif" width="30px" heigth="30px">
@@ -15,7 +16,14 @@ I hope we can grow as developers and I send you a warm greeting!
 - CSS3
 - JavaScript
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-leo)
+<div align="center">
+  <a href="https://github.com/iam-leo/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-leo&theme=github_dark&layout=compact&hide_border=true" height="150px" />
+  </a>
+  <a href="https://github.com/iam-leo/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=iam-leo&show_icons=true&theme=github_dark&hide_border=true" height="150px"/>
+  </a>
+</div>
 
   
 
