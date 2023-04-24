@@ -1,4 +1,4 @@
-![portada_minificada](https://user-images.githubusercontent.com/79548542/141017253-cee6ea4f-9c9c-4798-837a-686a2ac66d0a.png)
+![bg-ghp-high](https://user-images.githubusercontent.com/79548542/234078982-d267f846-6a70-4e28-b24d-ed0fd4239d78.png)
 
 
 <h1 align="center"> 
@@ -7,9 +7,7 @@
   <img src="https://media.giphy.com/media/JUq9ohFN2eSLJllrkd/giphy.gif" width="30px" heigth="30px">
 </h1>
 
-My name is **Leonel** although I'm usually called just "**Leo**".  
-I'm on my way to become a frontend developer, I started studying programming in a self-taught way and I've taken some courses in *Udemy*. Currently I'm starting in the javascript world, here you can see some of my projects as I'm advancing in my career.   
-I hope we can grow as developers and I send you a warm greeting! 
+Hi, I'm **Leonel**, although people usually call me **"Leo"**. I'm on my way to becoming a frontend developer. I started studying programming on my own and have also taken courses on Udemy, Platzi, Codigo Facilito, Launch X, and others. Right now, I'm learning JavaScript and you can check out some of my projects as I progress in my career. I hope to continue growing as a developer, and I'm sending you a very warm greeting!
 
 ## Tech Stack
 - HTML
@@ -24,12 +22,6 @@ I hope we can grow as developers and I send you a warm greeting!
     <img src="https://github-readme-stats.vercel.app/api?username=iam-leo&show_icons=true&theme=github_dark&hide_border=true" height="150px"/>
   </a>
 </div>
-
-  
-
-
-## Authors
-
-- [@LeoSs](https://www.github.com/iam-leo/)
-
-  <p align="center"> <img src="https://gpvc.arturio.dev/iam-leo"> </p>
+<br>
+<br>
+ <p align="center"> <img src="https://gpvc.arturio.dev/iam-leo"> </p>
