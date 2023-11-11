@@ -31,6 +31,7 @@ Hi, I'm **Leonel**, although people usually call me **"Leo"**. I'm on my way to 
   </div>
   <br>
   <div>
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
     <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white">
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white">
     <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white">
