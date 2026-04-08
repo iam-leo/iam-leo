@@ -6,14 +6,14 @@
   
   ## I'm **Leonel (Leo)** 🧑‍💻
   
-  <img src="https://img.shields.io/badge/Frontend%20Developer-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend%20Developer-4B0082?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Argentina-0078D6?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/⭐⭐⭐-🇦🇷-0078D6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Looking%20for%20my%20first%20IT%20job-4B0082?style=for-the-badge" />
 
   <br/><br/>
 
-  <p>Self-taught developer on my journey to becoming a frontend professional. I've studied through platforms like Udemy, Platzi, Codigo Facilito, and Launch X. Currently focused on Angular, Astro, and JavaScript, building projects to grow my skills and launch my IT career. Always open to learning new technologies and collaborating on exciting projects!</p>
+  <p><b>Self-taught developer</b> on my journey to becoming a frontend professional. I've studied through platforms like Udemy, Platzi, Codigo Facilito, and Launch X. I also completed the <b>XAcademy Dev program</b> by <b>Fundación Tecnología Con Propósito & Santex</b>, which includes a theoretical phase and a project phase simulating a real work environment. Currently focused on Angular, Astro, and JavaScript, building projects to grow my skills and launch my IT career. Always open to learning new technologies and collaborating on exciting projects!</p>
 
 </div>
 
@@ -51,6 +51,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+  <img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge">
 </div>
 
 ---
